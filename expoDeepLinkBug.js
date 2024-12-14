@@ -1,0 +1,1 @@
+While building an Expo app, I encountered a peculiar error related to the interaction between Expo's `Linking` API and deep linking.  The app would consistently fail to handle incoming URLs, even though the URL scheme and configuration seemed correct.  The error messages were unhelpful, often indicating a generic failure in the `Linking` API without specifics.
